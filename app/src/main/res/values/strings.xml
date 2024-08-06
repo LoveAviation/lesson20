@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseTest</string>
+    <string name="some_button">Какая-то кнопка</string>
+    <string name="some_text">Кнопка вызовет ошибку</string>
+    <string name="important">Важное</string>
+    <string name="text_error">Вы нажали кнопку и произошла ошибка</string>
+</resources>
